@@ -37,7 +37,7 @@ This project is a secure user login system implemented in Python using the [Cust
 1. Clone this repository:
    ```bash
    git clone https://github.com/Gabrick75/PythonLogin
-   cd secure-login-system
+   cd PythonLogin
    ```
 2. Install dependencies:
    ```bash
