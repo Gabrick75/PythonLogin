@@ -1,4 +1,7 @@
 # PythonLogin
+This repository is available in: 🇺🇸 [English](README.md) <br>
+Este repositório está disponível em: 🇧🇷 [Português](README.pt.md) 
+
 This project is a secure user login system implemented in Python using the [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) library for the GUI and [bcrypt](https://pypi.org/project/bcrypt/) for password hashing.
 
 # Secure Login System with CustomTkinter and bcrypt
@@ -33,22 +36,20 @@ This project is a secure user login system implemented in Python using the [Cust
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/secure-login-system.git
+   git clone https://github.com/Gabrick75/PythonLogin
    cd secure-login-system
    ```
 2. Install dependencies:
-  ```bash
-  pip install customtkinter bcrypt
-  ```
+   ```bash
+   pip install customtkinter bcrypt
+   ```
 ---
 
 ## Usage
-
 Run the main Python script:
-
-  ```bash
-  python3 login.py
-  ```
+   ```bash
+   python3 login.py
+   ```
 ---
 
 ## File Structure
