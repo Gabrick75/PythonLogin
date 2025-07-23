@@ -37,7 +37,7 @@ Este projeto é um sistema seguro de login de usuários implementado em Python, 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Gabrick75/PythonLogin
-   cd secure-login-system
+   cd PythonLogin
    ```
 2. Instale as dependências:
    ```bash
